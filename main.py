@@ -2,7 +2,7 @@ from tkinter import*
 from PIL import ImageTk, Image
 from random import randint
 
-
+  
 root=Tk()
 
 root.title("rock-paper-scissors")
